@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Mohsen 
-An IT Engineer, Teacher, Developer, Graphic Designer, and a dedicated Sambo & Wrestling athlete, coach, and referee. 
+An IXT Engineer, Teacher, Software Developer, UX UI Designer, and a dedicated Sambo & Wrestling athlete, coach, and referee. 
 ## About Me 🌟
 
 I have over 5 years of experience in teaching and web development. This combination has allowed me to develop a deep understanding of technology, marketing, and communication. I believe in constantly updating my skills to stay ahead in this rapidly evolving industry.
