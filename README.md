@@ -1,48 +1,119 @@
-# Hi there! 👋 I'm Mohsen 
-An ICT Engineer, Teacher, Software Developer, UX UI Designer, and a dedicated Sambo & Wrestling athlete, coach, and referee. 
-## About Me 🌟
+# 👋 Hi there, I'm Mohsen!
 
-I have over 5 years of experience in teaching and web development. This combination has allowed me to develop a deep understanding of technology, marketing, and communication. I believe in constantly updating my skills to stay ahead in this rapidly evolving industry.
+🎓 ICT Engineer | 👨‍🏫 Teacher | 💻 Full-Stack Developer | 🎨 UX/UI Designer | 🥋 Sambo, Jiu-Jitsu & MMA Athlete | Coach & Referee
 
-## Education 🎓
+---
 
-- Master's degree in Computer Science specializing in Science and Technology Information and Communication (STIC Mcs), I bring a unique blend of technical expertise and a passion for education.
+## 🌟 About Me
 
+I'm a **multidisciplinary professional** with over **5 years of experience** in:
 
-## Skills 💻
+- 🧑‍💻 Web & Software Development  
+- 🧑‍🏫 Education and Training  
+- 🎯 UX/UI Design  
+- 🤼‍♂️ Martial Arts Coaching and Officiating  
 
-- Web Development: HTML, CSS, JavaScript, PHP, Python ...
-- Graphic Design: Adobe Photoshop, Illustrator, InDesign, Figma
-- Teaching: Classroom management, curriculum development, student engagement
-- Communication: Effective written and verbal communication, presentation skills
+I thrive on **innovation, teamwork, and continuous learning**, blending **technology, creativity, and education** to solve real-world challenges.
 
-## Experience 💼
+---
 
-### Teaching 
+## 🎓 Education
 
-- Assisted in the development and delivery of computer science courses
-- Provided guidance and support to students during lab sessions
-- Graded assignments and provided constructive feedback to students
+- 🎓 **Master’s Degree in Computer Science (STIC MSc)**  
+  *Specialization: Science and Technology of Information and Communication*
 
-### Freelancing 
+---
 
-- Create visually appealing user interfaces
-- Developing responsive websites
-- Implementing backend functionalities
-- Conducted website maintenance and troubleshooting
+## 🧰 Skills & Tools
 
-## More 🌍
+### 💻 **Programming Languages**
+![Pascal](https://img.shields.io/badge/-Pascal-008080?style=flat&logo=pascal&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- Active participant in various professional associations related to Society, Tech and education fields
-- Regularly attend conferences, workshops, and seminars to stay updated with the latest industry trends
-- Engaged in team-building activities and community events to enhance organizational and teamwork skills
+### 🖥️ **Frameworks, Libraries & Platforms**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Slim Framework](https://img.shields.io/badge/-Slim-74C7E3?style=flat&logo=slim&logoColor=white)
 
-## Why Me? 💪
+### 🌐 **Web Technologies**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
-By joining your team, I am eager to further enhance my skills, expand my knowledge of different cultures, forge valuable connections, and collaborate with interesting individuals. I am confident that my technical expertise, teaching experience, and strong dedication will make me a valuable asset to your organization.
+### 🧪 **Development Principles & Methodologies**
+- ✅ Test-Driven Development (TDD)
+- 🧱 Domain-Driven Design (DDD)
+- 🧩 SOLID Principles
+- 🏗️ Clean Architecture
+- 📂 MVC, RESTful APIs
+- ⚙️ Agile & Scrum Practices
 
-Please feel free to reach out if you require any additional information or if you would like to discuss how I can contribute to your team.
+### 🎨 **UI/UX & Design Tools**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/-InDesign-EE3C99?style=flat&logo=adobeindesign&logoColor=white)
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/khaldounmohsen) and [GitHub](https://github.com/mohsenuss91).
+### 📚 **Teaching & Communication**
+- 📖 Curriculum Design
+- 🎤 Public Speaking & Presentation
+- 🏫 Classroom Management
+- ✍️ Educational Content Creation
 
-Thank you! ✨
+---
+
+## 💼 Professional Experience
+
+### 👨‍🏫 **Educator | ICT Teacher**
+- 📘 Designed and delivered computer science lessons
+- 💡 Guided students through practical labs and projects
+- 📝 Evaluated student work and provided personalized feedback
+
+### 🖥️ **Freelance Developer & Designer**
+- 🖌️ Designed modern, user-friendly interfaces
+- 🌐 Built responsive, dynamic websites (SPA & PWA)
+- 🔧 Handled backend functionality and performance optimization
+- 🛠️ Maintained and debugged existing platforms
+
+---
+
+## 🌐 Activities & Engagement
+
+- 👥 Member of professional tech, education, and societal networks
+- 📅 Regular attendee at tech conferences and educational workshops
+- 🥋 Athlete, Coach & Referee in **Sambo**, ** Jiu-Jitsu **, and **MMA**
+- 🌍 Enthusiast of cross-cultural collaboration and community events
+
+---
+
+## 💪 Why Work With Me?
+
+I offer a **unique mix** of:
+
+- ⚙️ **Technical skills** in software development and design  
+- 🎓 **Educational experience** to communicate complex ideas  
+- 🥋 **Discipline and leadership** from combat sports and coaching  
+
+I’m always ready to **learn**, **collaborate**, and **deliver value** in any project I join.
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/khaldounmohsen)
+- 🐙 [GitHub](https://github.com/mohsenuss91)
+
+Feel free to reach out if you'd like to **collaborate, chat, or learn together**. Let's build something great! 🚀
+
+---
+
+⭐️ *Thank you for visiting my GitHub!*
