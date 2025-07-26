@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohsen!
 
-🎓 ICT Engineer | 👨‍🏫 Teacher | 💻 Full-Stack Developer | 🎨 UX/UI Designer | 🥋 Sambo, Jiu-Jitsu & MMA Athlete | Coach & Referee
+🎓 ICT Engineer | 👨‍🏫 Teacher | 💻 Full-Stack Developer | 🎨 UX/UI Designer | 🥋 Sambo, Wrestling, Jiu-Jitsu & MMA Athlete | Coach & Referee
 
 ---
 
@@ -34,16 +34,24 @@ I thrive on **innovation, teamwork, and continuous learning**, blending **techno
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 ### 🖥️ **Frameworks, Libraries & Platforms**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Laravel Voyager](https://img.shields.io/badge/-Laravel%20Voyager-20C997?style=flat&logo=laravel&logoColor=white)
 ![Slim Framework](https://img.shields.io/badge/-Slim-74C7E3?style=flat&logo=slim&logoColor=white)
+
+### 🗄️ **Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🌐 **Web Technologies**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -90,7 +98,7 @@ I thrive on **innovation, teamwork, and continuous learning**, blending **techno
 
 - 👥 Member of professional tech, education, and societal networks
 - 📅 Regular attendee at tech conferences and educational workshops
-- 🥋 Athlete, Coach & Referee in **Sambo**, ** Jiu-Jitsu **, and **MMA**
+- 🥋 Athlete, Coach & Referee in **Sambo**, **Brazilian Jiu-Jitsu (BJJ)**, and **MMA**
 - 🌍 Enthusiast of cross-cultural collaboration and community events
 
 ---
